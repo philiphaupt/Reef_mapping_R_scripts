@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1408774137427.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "697F6EC0",
+    "lastKnownWriteTime" : 7741240722073845761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "site.cluster",
+        "contentUrl" : "content?title=site.cluster&file=7b769eed325f451d8c539217ab303a7c.htm",
+        "displayedObservations" : 366,
+        "displayedVariables" : 18,
+        "totalObservations" : 366,
+        "variables" : 17
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

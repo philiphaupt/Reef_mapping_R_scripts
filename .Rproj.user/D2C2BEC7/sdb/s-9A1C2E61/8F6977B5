@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1408772152317.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8F6977B5",
+    "lastKnownWriteTime" : 7741240722073845761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "reef.env",
+        "contentUrl" : "content?title=reef.env&file=6f920d762c7e4792abf6ae9baef4fe96.htm",
+        "displayedObservations" : 366,
+        "displayedVariables" : 2,
+        "totalObservations" : 366,
+        "variables" : 1
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

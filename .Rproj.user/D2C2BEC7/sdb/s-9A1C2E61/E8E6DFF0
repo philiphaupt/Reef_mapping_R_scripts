@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1408771791476.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E8E6DFF0",
+    "lastKnownWriteTime" : 7741240722073845761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "reef.t",
+        "contentUrl" : "content?title=reef.t&file=320fbe9ddb7947b69dcba18f4b6e40e7.htm",
+        "displayedObservations" : 366,
+        "displayedVariables" : 17,
+        "totalObservations" : 366,
+        "variables" : 16
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
